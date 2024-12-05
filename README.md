@@ -1,4 +1,4 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-4jCfxiQBwQZZgxtYqGsBK8WpnBAeSezfOgpu8MfYSjk3xbRm3xSrNGXgtM4MEKxH6yJmbTYf0HTQ7OLhrS0azd0gFNj2M-mkIxTbX6Nu3mUvBVNCc4vD1orCLxDC89s3kZRhtFhxVY/w1200-h630-p-k-no-nu/Screen+Shot+2019-11-27+at+4.55.24+PM.png)
+[MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-4jCfxiQBwQZZgxtYqGsBK8WpnBAeSezfOgpu8MfYSjk3xbRm3xSrNGXgtM4MEKxH6yJmbTYf0HTQ7OLhrS0azd0gFNj2M-mkIxTbX6Nu3mUvBVNCc4vD1orCLxDC89s3kZRhtFhxVY/w1200-h630-p-k-no-nu/Screen+Shot+2019-11-27+at+4.55.24+PM.png)
 <h1 align="center">Hi 👋, I'm Sanuvi Lokugamage</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer from Sri Lanka</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*qdAW1TjCN57h1lbuuzvchg.gif">
